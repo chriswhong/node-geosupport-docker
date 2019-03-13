@@ -1,4 +1,4 @@
-# geosupport-node-docker
+# node-geosupport-docker
 
 Dockerfile for a node-friendly container with NYC's Geosupport geocoding binary installed
 
